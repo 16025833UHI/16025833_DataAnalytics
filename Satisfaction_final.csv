@@ -1,0 +1,39 @@
+LOCATION,Country,Value,Country Name,Indicator Name,Indicator Code,2016
+AUS,Australia,7.1,Australia,GDP per capita (current US$),NY.GDP.PCAP.CD,49881.76371
+AUT,Austria,7.2,Austria,GDP per capita (current US$),NY.GDP.PCAP.CD,45307.58786
+BEL,Belgium,6.8,Belgium,GDP per capita (current US$),NY.GDP.PCAP.CD,42012.62272
+CAN,Canada,7,Canada,GDP per capita (current US$),NY.GDP.PCAP.CD,42315.60371
+CZE,Czech Republic,6.9,Czech Republic,GDP per capita (current US$),NY.GDP.PCAP.CD,18575.23203
+DNK,Denmark,7.5,Denmark,GDP per capita (current US$),NY.GDP.PCAP.CD,54663.99837
+FIN,Finland,7.9,Finland,GDP per capita (current US$),NY.GDP.PCAP.CD,43814.02651
+FRA,France,6.7,France,GDP per capita (current US$),NY.GDP.PCAP.CD,37062.53357
+DEU,Germany,7.3,Germany,GDP per capita (current US$),NY.GDP.PCAP.CD,42136.12079
+GRC,Greece,5.8,Greece,GDP per capita (current US$),NY.GDP.PCAP.CD,17923.96681
+HUN,Hungary,6,Hungary,GDP per capita (current US$),NY.GDP.PCAP.CD,13107.37791
+ISL,Iceland,7.6,Iceland,GDP per capita (current US$),NY.GDP.PCAP.CD,61987.92636
+IRL,Ireland,7,Ireland,GDP per capita (current US$),NY.GDP.PCAP.CD,62861.63912
+ITA,Italy,6.5,Italy,GDP per capita (current US$),NY.GDP.PCAP.CD,30960.73151
+JPN,Japan,6.1,Japan,GDP per capita (current US$),NY.GDP.PCAP.CD,39375.47316
+KOR,Korea,5.8,"Korea, Rep.",GDP per capita (current US$),NY.GDP.PCAP.CD,29288.87044
+LUX,Luxembourg,7.4,Luxembourg,GDP per capita (current US$),NY.GDP.PCAP.CD,106899.2935
+MEX,Mexico,6,Mexico,GDP per capita (current US$),NY.GDP.PCAP.CD,8744.515559
+NLD,Netherlands,7.5,Netherlands,GDP per capita (current US$),NY.GDP.PCAP.CD,46039.10593
+NZL,New Zealand,7.3,New Zealand,GDP per capita (current US$),NY.GDP.PCAP.CD,40058.19616
+NOR,Norway,7.3,Norway,GDP per capita (current US$),NY.GDP.PCAP.CD,70460.56053
+POL,Poland,6.1,Poland,GDP per capita (current US$),NY.GDP.PCAP.CD,12447.43959
+PRT,Portugal,5.8,Portugal,GDP per capita (current US$),NY.GDP.PCAP.CD,19991.97249
+SVK,Slovak Republic,6.5,Slovak Republic,GDP per capita (current US$),NY.GDP.PCAP.CD,16512.29299
+ESP,Spain,6.5,Spain,GDP per capita (current US$),NY.GDP.PCAP.CD,26523.34822
+SWE,Sweden,7.3,Sweden,GDP per capita (current US$),NY.GDP.PCAP.CD,51965.15715
+CHE,Switzerland,7.5,Switzerland,GDP per capita (current US$),NY.GDP.PCAP.CD,83073.28008
+TUR,Türkiye,4.9,Turkiye,GDP per capita (current US$),NY.GDP.PCAP.CD,10894.60338
+GBR,United Kingdom,6.8,United Kingdom,GDP per capita (current US$),NY.GDP.PCAP.CD,41499.5557
+USA,United States,7,United States,GDP per capita (current US$),NY.GDP.PCAP.CD,57866.74493
+BRA,Brazil,6.1,Brazil,GDP per capita (current US$),NY.GDP.PCAP.CD,8710.06329
+CHL,Chile,6.2,Chile,GDP per capita (current US$),NY.GDP.PCAP.CD,13690.90746
+EST,Estonia,6.5,Estonia,GDP per capita (current US$),NY.GDP.PCAP.CD,18295.34293
+ISR,Israel,7.2,Israel,GDP per capita (current US$),NY.GDP.PCAP.CD,37330.2618
+LVA,Latvia,6.2,Latvia,GDP per capita (current US$),NY.GDP.PCAP.CD,14331.75159
+RUS,Russia,5.5,Russian Federation,GDP per capita (current US$),NY.GDP.PCAP.CD,8704.898438
+SVN,Slovenia,6.5,Slovenia,GDP per capita (current US$),NY.GDP.PCAP.CD,21678.35947
+ZAF,South Africa,4.9,South Africa,GDP per capita (current US$),NY.GDP.PCAP.CD,5756.965741
